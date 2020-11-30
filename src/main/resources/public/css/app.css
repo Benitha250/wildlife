@@ -28,11 +28,10 @@ nav a{
 }
 
 .form{
-    background-color:rgba(0,0,0,0.67);
+    background-color:grey;
     width:50%;
-    margin:auto;
-    margin-top:50px;
     text-align:center;
+    color:black;
 }
 hr{
  background-color:blanchedalmond;
@@ -45,8 +44,8 @@ hr{
 }
 
 .container-fluid{
-    background-color:rgba(0,0,0,0.67);
-
+    background-color:grey;
+    color:black;
 }
 .container-fluid p{
     font-size:1.8em;
@@ -58,13 +57,15 @@ hr{
     margin-right:30px
 }
 .views.animals{
-   display: flex;
-   flex-wrap: wrap;
+ background-color:grey;
+ color:black;
 
 }
 .card{
     margin-right:20px;
+    color:black;
 }
 .views.sightings{
- background-color:rgba(0,0,0,0.67);
+ background-color:grey;
+ color:black;
 }

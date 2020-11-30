@@ -2,7 +2,7 @@
     <div class="views animals">
         {{#if animals}}
             {{#each animals as |a|}}
-                <div class="card text-white bg-dark mb-3" style="width: 18rem;">
+                <div class="card">
                     <div class="card-body">
                         <h5 class="card-title">{{a.name}}</h5>
                         <p class="card-text">{{a.type}}</p>
@@ -13,7 +13,7 @@
                 </div>
             {{/each}}
         {{else}}
-            <h2>No animals! Create some animals <a href="/create/animal">here</a></h2>
+            <h2>No animals. Create <a href="/create/animal">animals</a></h2>
         {{/if}}
 
     </div>
