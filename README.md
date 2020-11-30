@@ -11,6 +11,7 @@ Benitha Uwase
 ### The live link to the project
 https://wildlife-ip.herokuapp.com/
 
+
 ## Setup/Installation Requirements
 * Fork this repo
 * Clone this repo 
