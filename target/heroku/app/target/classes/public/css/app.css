@@ -1,0 +1,71 @@
+body{
+     background-image: url("/images/appback.jpg");
+     background-size:cover;
+     color:blanchedalmond;
+
+}
+
+nav a{
+    font-size:1.8em;
+    margin-right:30px;
+
+}
+
+.dropdown-menu{
+ background:#343a40;
+
+}
+.dropdown-menu a{
+    color:blanchedalmond;
+}
+.title{
+    width:40%;
+    margin:auto;
+    margin-top:100px;
+    color:black;
+    background-color:white;
+
+}
+
+.form{
+    background-color:grey;
+    width:50%;
+    text-align:center;
+    color:black;
+}
+hr{
+ background-color:blanchedalmond;
+}
+.form-group{
+    width:60%;
+    margin:auto;
+    margin-top:30px;
+    font-size:1.8em;
+}
+
+.container-fluid{
+    background-color:grey;
+    color:black;
+}
+.container-fluid p{
+    font-size:1.8em;
+}
+.container-fluid li{
+    font-size:1.8em;
+}
+.entries a{
+    margin-right:30px
+}
+.views.animals{
+ background-color:grey;
+ color:black;
+
+}
+.card{
+    margin-right:20px;
+    color:black;
+}
+.views.sightings{
+ background-color:grey;
+ color:black;
+}
